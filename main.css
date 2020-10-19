@@ -23,3 +23,8 @@
     99%{    color:transparent;  }
     100%{   color: #000;    }
 }
+
+#bio1{
+    height: 100px;
+    width: 300px;
+}
