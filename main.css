@@ -23,3 +23,8 @@
     99%{    color:transparent;  }
     100%{   color: #000;    }
 }
+
+#easter-egg--hidden {
+    text-decoration: none;
+    cursor: default;
+}
